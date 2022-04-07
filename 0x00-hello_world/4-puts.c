@@ -1,12 +1,13 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
 
 	/* initializing str */
-	char str[] = "Programming is like building a multilingual puzzle";
+	char str[] = "\"Programming is like building a multilingual puzzle";
 
 	/* writing to stdout */
 	puts(str);
 
-	return 0;
+	return (0);
 }
