@@ -1,7 +1,12 @@
 #include <stdio.h>
 
-/* main function with a void parameter */
-int main(void) 
+/**
+ * main - function
+ * void: takes no parameters
+ *
+ * Return: Return the value of 0
+ */
+int main(void)
 {
 
 	/* initializing str */
