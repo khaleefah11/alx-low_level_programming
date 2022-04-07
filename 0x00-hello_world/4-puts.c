@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* main function with a void parameter */
 int main(void) 
 {
 
