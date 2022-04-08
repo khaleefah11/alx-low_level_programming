@@ -1,4 +1,3 @@
-
 	if (n > 0)
 
 		printf("is positive\n")
