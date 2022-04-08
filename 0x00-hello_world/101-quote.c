@@ -14,7 +14,7 @@ int main(void)
 	char str1[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
 
 	/* writing to stderr */
-	fprintf(stderr, str1);
+	fprintf(stderr, "%s", str1);
 
 	return (1);
 }
