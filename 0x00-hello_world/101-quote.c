@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 /**
  * main - function
@@ -14,10 +15,10 @@ int main(void)
 	char str2[] = " - Dora Korpar, 2015-10-19";
 
 	/* concatenating strings */
-	strcat(str1, str2);
+	char str3[] = strcat(str1, str2);
 
 	/* writing to stderr */
-	fprintf(stderr, str1);
+	fprintf(stderr, str3);
 
 	return (1);
 }
