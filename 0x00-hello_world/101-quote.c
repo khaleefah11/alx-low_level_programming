@@ -10,9 +10,10 @@
 int main(void)
 {
 
-	/* initializing strings */
+	/* initializing and declaring strings */
 	char str1[] = "and that piece of art is useful\"";
 	char str2[] = " - Dora Korpar, 2015-10-19";
+	char str3[];
 
 	/* concatenating strings */
 	char str3[] = strcat(str1, str2);
