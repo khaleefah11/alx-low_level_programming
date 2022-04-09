@@ -9,14 +9,14 @@
 int main(void)
 {
 
-	int d;
+	char d;
 
-	for (d = 0; d < 10; d++)
+	for (d = '0'; d <= '9'; d++)
 	{
-		printf("%i", d);
+		putchar(d);
 	}
 
-	printf('\n');
+	putchar('\n');
 
 
 	return (0);
