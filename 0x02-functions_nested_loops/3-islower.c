@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * islower - function to whether or not an alphabets is lowercase
- * Takes an int type parameter
+ * _islower - function to whether or not an alphabets is lowercase
+ *@c: The int type parameter the function takes
  *
  * Return: Return the value of 0 upon success
  */
