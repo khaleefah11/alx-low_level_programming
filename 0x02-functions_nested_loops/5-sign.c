@@ -4,7 +4,7 @@
  *@n: The int type parameter the function takes
  *
  * Return: Return the value of 1 if the number is +ve || -1 if -ve ||
- * 		Return 0 if the number is 0
+ * Return 0 if the number is 0
  */
 int print_sign(int n)
 {
