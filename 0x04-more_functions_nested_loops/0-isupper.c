@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
  *_isupper - Function to check whether or not a character is in uppercase
@@ -10,7 +9,7 @@
 int _isupper(int c)
 {
 
-	int c;
+	char c;
 
 	if (isupper(c))
 		return (1);
