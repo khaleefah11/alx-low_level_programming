@@ -3,6 +3,7 @@
 /**
  * main - Tests function that checks whether an integer is +ve or -ve
  * Return: 0
+ *
  */
 
 int main(void)
