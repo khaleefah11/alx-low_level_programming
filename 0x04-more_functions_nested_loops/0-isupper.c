@@ -11,9 +11,9 @@
 int _isupper(int c)
 {
 
-	char ch;
+	char c;
 
-	if (isupper(ch))
+	if (isupper(c))
 		return (1);
 	else
 		return (0);
