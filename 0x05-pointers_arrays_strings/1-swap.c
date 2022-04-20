@@ -7,7 +7,7 @@ include "main.h"
  * Return: void
  */
 
-vod swap_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
 	int f;
 
