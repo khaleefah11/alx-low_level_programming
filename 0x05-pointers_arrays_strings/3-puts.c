@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * _putschar - Function to print a string
+ * _puts - Function to print a string
  * @str: The pointer the function acts upon
  *
  * Return: void
  */
 
-void _putschar(char *str)
+void _puts(char *str)
 {
 	char *c;
 	int m;
