@@ -6,7 +6,7 @@
  * @argc: n args
  * @argv: arr args
  *
- * Retrun: 0
+ * Return: 0
  */
 
 int main(int argc, char *argv[])
